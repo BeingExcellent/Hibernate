@@ -1,0 +1,6 @@
+Few Steps : 
+#1 : MySQL should be installed.
+#2 : Java should be installed.
+#3 : Any IDE - I am using Eclipse or InteliJ
+#4 : Download HibernateJars from http://hibernate.org/orm/ and add all the jars of /lib/required folders as external library
+35 : Download mysql-jdbc connector from any site and add as external jar
